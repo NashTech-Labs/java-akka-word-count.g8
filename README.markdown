@@ -17,7 +17,10 @@ A [Giter8][g8] template for Akka Word Count Example in Java.
 ***3. Compile the application***
 
 ``` cd akka-word-count```
+
 ```mvn clean install```
+
+```mvn clean compile```
     
  ***4 Test the application***
  
