@@ -1,17 +1,33 @@
-A [Giter8][g8] template for Akka Word Count Example in Java
+A [Giter8][g8] template for Akka Word Count Example in Java.
 
-Steps to run the project
+***akka-word-count***
 
-1. cd src/maim/g8
 
-2. mvn clean install
+***How to set up ?***
 
-3. mvn clean test
+***1. Clone the application***
+
+```sbt new shivangi1015/akka-word-count.g8```
+
+***2 Give name to your application***
+
+```name akka-word-count``` // You can give any name.
+
+
+***3. Compile the application***
+
+``` cd akka-word-count```
+```mvn clean install```
+    
+ ***4 Test the application***
+ 
+ ```mvn clean test```
+ 
 
 
 Template license
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
+Written in <2018> by <Shivangi Gupta> <shivangi1015@gmail.com>
 [other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
