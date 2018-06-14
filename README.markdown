@@ -31,7 +31,6 @@ A [Giter8][g8] template for Akka Word Count Example in Java.
 Template license
 ----------------
 Written in <2018> by <Shivangi Gupta> <shivangi1015@gmail.com>
-[other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
