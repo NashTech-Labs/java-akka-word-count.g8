@@ -7,7 +7,7 @@ A [Giter8][g8] template for Akka Word Count Example in Java.
 
 ***1. Clone the application***
 
-```sbt new shivangi1015/akka-word-count.g8```
+```sbt new knoldus/java-akka-word-count.g8```
 
 ***2 Give name to your application***
 
